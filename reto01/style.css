@@ -1,0 +1,104 @@
+/**
+body {
+	background-color: hsl(30, 38%, 92%);
+}
+
+.container {
+	width: 375px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	overflow: hidden;
+}
+
+img {
+	width: 100%;
+}
+
+h1 {
+	font-family: 'Fraunces', serif;
+}
+
+h2 {
+	color: hsl(228, 12%, 48%);
+	font-family: 'Montserrat', sans-serif;
+}
+
+.parrafo {
+	font-family: 'Montserrat', sans-serif;
+	color: hsl(228, 12%, 48%);
+}
+
+.precio-actual {
+	color: hsl(158, 36%, 37%);
+	font-family: 'Fraunces', serif;
+}
+
+.precio-antiguo {
+	color: hsl(228, 12%, 48%);
+	font-family: 'Montserrat', sans-serif;
+}
+
+button {
+	background-color: hsl(158, 36%, 37%);
+	border-radius: 10px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+**/
+
+
+body{
+	background-color:hsl(30, 38%, 92%);
+
+}
+h1{
+	font-family: 'Fraunces', serif;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	color: hsl(228, 12%, 48%);
+}
+.parrafo{
+	font-family: 'Montserrat', sans-serif;
+	color: hsl(228, 12%, 48%);
+}
+img{
+	width: 100%;
+}
+.container
+{
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 10px;
+	width: 375px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	overflow: hidden;
+	
+}
+.precio-actual {
+	color: hsl(158, 36%, 37%);
+	font-family: 'Fraunces', serif;
+}
+.precio-antiguo {
+	color: hsl(228, 12%, 48%);
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: line-through;
+}
+
+button{
+	background-color: hsl(158, 36%, 37%);
+	border-radius: 10px;
+	font-family: 'Montserrat', sans-serif;
+	width: 375px;
+	border: none;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	height: 50px;
+}
